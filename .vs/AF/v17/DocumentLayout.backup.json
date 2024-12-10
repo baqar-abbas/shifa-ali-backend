@@ -1,0 +1,390 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\AliyaFoundationBackend\\AF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|f:\\aliyafoundationbackend\\af\\af\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|f:\\aliyafoundationbackend\\af\\af\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|f:\\aliyafoundationbackend\\af\\af\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|f:\\aliyafoundationbackend\\af\\af\\repositories\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\repositories\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|f:\\aliyafoundationbackend\\af\\af\\repositories\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\repositories\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|f:\\aliyafoundationbackend\\af\\af\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|f:\\aliyafoundationbackend\\af\\af\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|f:\\aliyafoundationbackend\\af\\af\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|f:\\aliyafoundationbackend\\af\\af\\models\\contactus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\models\\contactus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|f:\\aliyafoundationbackend\\af\\af\\repositories\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\repositories\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|f:\\aliyafoundationbackend\\af\\af\\services\\passwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\services\\passwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|f:\\aliyafoundationbackend\\af\\af\\models\\fundraising.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\models\\fundraising.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|f:\\aliyafoundationbackend\\af\\af\\repositories\\articlecategoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\repositories\\articlecategoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|f:\\aliyafoundationbackend\\af\\af\\controllers\\articlecategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\controllers\\articlecategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|f:\\aliyafoundationbackend\\af\\af\\models\\articlecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\models\\articlecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|f:\\aliyafoundationbackend\\af\\af\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|f:\\aliyafoundationbackend\\af\\af\\models\\donationcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\models\\donationcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|f:\\aliyafoundationbackend\\af\\af\\models\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\models\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|f:\\aliyafoundationbackend\\af\\af\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|f:\\aliyafoundationbackend\\af\\af\\repositories\\iarticlecategoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\repositories\\iarticlecategoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|f:\\aliyafoundationbackend\\af\\af\\controllers\\donationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\controllers\\donationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|f:\\aliyafoundationbackend\\af\\af\\repositories\\donationsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\repositories\\donationsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|f:\\aliyafoundationbackend\\af\\af\\repositories\\ifundraisingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\repositories\\ifundraisingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUsersRepository.cs",
+              "DocumentMoniker": "F:\\AliyaFoundationBackend\\AF\\AF\\Repositories\\IUsersRepository.cs",
+              "RelativeDocumentMoniker": "AF\\Repositories\\IUsersRepository.cs",
+              "ToolTip": "F:\\AliyaFoundationBackend\\AF\\AF\\Repositories\\IUsersRepository.cs",
+              "RelativeToolTip": "AF\\Repositories\\IUsersRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:46:18.57Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "F:\\AliyaFoundationBackend\\AF\\AF\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "AF\\Controllers\\UsersController.cs",
+              "ToolTip": "F:\\AliyaFoundationBackend\\AF\\AF\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "AF\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwHYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:54:55.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Users.cs",
+              "DocumentMoniker": "F:\\AliyaFoundationBackend\\AF\\AF\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "AF\\Models\\Users.cs",
+              "ToolTip": "F:\\AliyaFoundationBackend\\AF\\AF\\Models\\Users.cs",
+              "RelativeToolTip": "AF\\Models\\Users.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAcwB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:03:15.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\AliyaFoundationBackend\\AF\\AF\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AF\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\AliyaFoundationBackend\\AF\\AF\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AF\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T13:02:51.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\AliyaFoundationBackend\\AF\\AF\\Program.cs",
+              "RelativeDocumentMoniker": "AF\\Program.cs",
+              "ToolTip": "F:\\AliyaFoundationBackend\\AF\\AF\\Program.cs",
+              "RelativeToolTip": "AF\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAUwEwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T13:05:53.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "F:\\AliyaFoundationBackend\\AF\\AF\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "AF\\Models\\LoginRequest.cs",
+              "ToolTip": "F:\\AliyaFoundationBackend\\AF\\AF\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "AF\\Models\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:17:55.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersRepository.cs",
+              "DocumentMoniker": "F:\\AliyaFoundationBackend\\AF\\AF\\Repositories\\UsersRepository.cs",
+              "RelativeDocumentMoniker": "AF\\Repositories\\UsersRepository.cs",
+              "ToolTip": "F:\\AliyaFoundationBackend\\AF\\AF\\Repositories\\UsersRepository.cs",
+              "RelativeToolTip": "AF\\Repositories\\UsersRepository.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAswDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T13:01:31.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\AliyaFoundationBackend\\AF\\AF\\appsettings.json",
+              "RelativeDocumentMoniker": "AF\\appsettings.json",
+              "ToolTip": "F:\\AliyaFoundationBackend\\AF\\AF\\appsettings.json",
+              "RelativeToolTip": "AF\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-07T11:05:55.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Fundraising.cs",
+              "DocumentMoniker": "F:\\AliyaFoundationBackend\\AF\\AF\\Models\\Fundraising.cs",
+              "RelativeDocumentMoniker": "AF\\Models\\Fundraising.cs",
+              "ToolTip": "F:\\AliyaFoundationBackend\\AF\\AF\\Models\\Fundraising.cs",
+              "RelativeToolTip": "AF\\Models\\Fundraising.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T13:34:47.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PasswordService.cs",
+              "DocumentMoniker": "F:\\AliyaFoundationBackend\\AF\\AF\\Services\\PasswordService.cs",
+              "RelativeDocumentMoniker": "AF\\Services\\PasswordService.cs",
+              "ToolTip": "F:\\AliyaFoundationBackend\\AF\\AF\\Services\\PasswordService.cs",
+              "RelativeToolTip": "AF\\Services\\PasswordService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:25:30.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ArticleRepository.cs",
+              "DocumentMoniker": "F:\\AliyaFoundationBackend\\AF\\AF\\Repositories\\ArticleRepository.cs",
+              "RelativeDocumentMoniker": "AF\\Repositories\\ArticleRepository.cs",
+              "ToolTip": "F:\\AliyaFoundationBackend\\AF\\AF\\Repositories\\ArticleRepository.cs",
+              "RelativeToolTip": "AF\\Repositories\\ArticleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:43:11.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContactUs.cs",
+              "DocumentMoniker": "F:\\AliyaFoundationBackend\\AF\\AF\\Models\\ContactUs.cs",
+              "RelativeDocumentMoniker": "AF\\Models\\ContactUs.cs",
+              "ToolTip": "F:\\AliyaFoundationBackend\\AF\\AF\\Models\\ContactUs.cs",
+              "RelativeToolTip": "AF\\Models\\ContactUs.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:03:23.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ArticleCategoriesController.cs",
+              "DocumentMoniker": "F:\\AliyaFoundationBackend\\AF\\AF\\Controllers\\ArticleCategoriesController.cs",
+              "RelativeDocumentMoniker": "AF\\Controllers\\ArticleCategoriesController.cs",
+              "ToolTip": "F:\\AliyaFoundationBackend\\AF\\AF\\Controllers\\ArticleCategoriesController.cs",
+              "RelativeToolTip": "AF\\Controllers\\ArticleCategoriesController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwB0AAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:37:38.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ArticleCategoriesRepository.cs",
+              "DocumentMoniker": "F:\\AliyaFoundationBackend\\AF\\AF\\Repositories\\ArticleCategoriesRepository.cs",
+              "RelativeDocumentMoniker": "AF\\Repositories\\ArticleCategoriesRepository.cs",
+              "ToolTip": "F:\\AliyaFoundationBackend\\AF\\AF\\Repositories\\ArticleCategoriesRepository.cs",
+              "RelativeToolTip": "AF\\Repositories\\ArticleCategoriesRepository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAawBYAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:35:51.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ArticleCategory.cs",
+              "DocumentMoniker": "F:\\AliyaFoundationBackend\\AF\\AF\\Models\\ArticleCategory.cs",
+              "RelativeDocumentMoniker": "AF\\Models\\ArticleCategory.cs",
+              "ToolTip": "F:\\AliyaFoundationBackend\\AF\\AF\\Models\\ArticleCategory.cs",
+              "RelativeToolTip": "AF\\Models\\ArticleCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:25:02.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Article.cs",
+              "DocumentMoniker": "F:\\AliyaFoundationBackend\\AF\\AF\\Models\\Article.cs",
+              "RelativeDocumentMoniker": "AF\\Models\\Article.cs",
+              "ToolTip": "F:\\AliyaFoundationBackend\\AF\\AF\\Models\\Article.cs",
+              "RelativeToolTip": "AF\\Models\\Article.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:03:26.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DonationCreateDto.cs",
+              "DocumentMoniker": "F:\\AliyaFoundationBackend\\AF\\AF\\Models\\DonationCreateDto.cs",
+              "RelativeDocumentMoniker": "AF\\Models\\DonationCreateDto.cs",
+              "ToolTip": "F:\\AliyaFoundationBackend\\AF\\AF\\Models\\DonationCreateDto.cs",
+              "RelativeToolTip": "AF\\Models\\DonationCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:07:21.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Donation.cs",
+              "DocumentMoniker": "F:\\AliyaFoundationBackend\\AF\\AF\\Models\\Donation.cs",
+              "RelativeDocumentMoniker": "AF\\Models\\Donation.cs",
+              "ToolTip": "F:\\AliyaFoundationBackend\\AF\\AF\\Models\\Donation.cs",
+              "RelativeToolTip": "AF\\Models\\Donation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T13:50:11.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ArticleController.cs",
+              "DocumentMoniker": "F:\\AliyaFoundationBackend\\AF\\AF\\Controllers\\ArticleController.cs",
+              "RelativeDocumentMoniker": "AF\\Controllers\\ArticleController.cs",
+              "ToolTip": "F:\\AliyaFoundationBackend\\AF\\AF\\Controllers\\ArticleController.cs",
+              "RelativeToolTip": "AF\\Controllers\\ArticleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:42:29.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IArticleCategoriesRepository.cs",
+              "DocumentMoniker": "F:\\AliyaFoundationBackend\\AF\\AF\\Repositories\\IArticleCategoriesRepository.cs",
+              "RelativeDocumentMoniker": "AF\\Repositories\\IArticleCategoriesRepository.cs",
+              "ToolTip": "F:\\AliyaFoundationBackend\\AF\\AF\\Repositories\\IArticleCategoriesRepository.cs",
+              "RelativeToolTip": "AF\\Repositories\\IArticleCategoriesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:33:09.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DonationController.cs",
+              "DocumentMoniker": "F:\\AliyaFoundationBackend\\AF\\AF\\Controllers\\DonationController.cs",
+              "RelativeDocumentMoniker": "AF\\Controllers\\DonationController.cs",
+              "ToolTip": "F:\\AliyaFoundationBackend\\AF\\AF\\Controllers\\DonationController.cs",
+              "RelativeToolTip": "AF\\Controllers\\DonationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T13:37:30.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DonationsRepository.cs",
+              "DocumentMoniker": "F:\\AliyaFoundationBackend\\AF\\AF\\Repositories\\DonationsRepository.cs",
+              "RelativeDocumentMoniker": "AF\\Repositories\\DonationsRepository.cs",
+              "ToolTip": "F:\\AliyaFoundationBackend\\AF\\AF\\Repositories\\DonationsRepository.cs",
+              "RelativeToolTip": "AF\\Repositories\\DonationsRepository.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAiwCsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T13:12:20.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IFundRaisingRepository.cs",
+              "DocumentMoniker": "F:\\AliyaFoundationBackend\\AF\\AF\\Repositories\\IFundRaisingRepository.cs",
+              "RelativeDocumentMoniker": "AF\\Repositories\\IFundRaisingRepository.cs",
+              "ToolTip": "F:\\AliyaFoundationBackend\\AF\\AF\\Repositories\\IFundRaisingRepository.cs",
+              "RelativeToolTip": "AF\\Repositories\\IFundRaisingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T13:46:02.493Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

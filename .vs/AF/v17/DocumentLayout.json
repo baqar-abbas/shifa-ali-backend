@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "D:\\projects\\shifa-ali-backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|d:\\projects\\shifa-ali-backend\\af\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|d:\\projects\\shifa-ali-backend\\af\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\shifa-ali-backend\\AF\\Migrations\\20241211002109_Initial Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AF\\Migrations\\20241211002109_Initial Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|d:\\projects\\shifa-ali-backend\\af\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|d:\\projects\\shifa-ali-backend\\af\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|d:\\projects\\shifa-ali-backend\\af\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|d:\\projects\\shifa-ali-backend\\af\\repositories\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|d:\\projects\\shifa-ali-backend\\af\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|d:\\projects\\shifa-ali-backend\\af\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|solutionrelative:af\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CC9AA612-1327-4EF6-983E-5D415A0E6D33}|AF\\AF.csproj|d:\\projects\\shifa-ali-backend\\af\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -106,7 +110,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "IUsersRepository.cs",
               "DocumentMoniker": "D:\\projects\\shifa-ali-backend\\AF\\Repositories\\IUsersRepository.cs",
               "RelativeDocumentMoniker": "AF\\Repositories\\IUsersRepository.cs",
@@ -119,19 +123,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "D:\\projects\\shifa-ali-backend\\AF\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "AF\\Controllers\\UsersController.cs",
-              "ToolTip": "D:\\projects\\shifa-ali-backend\\AF\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "AF\\Controllers\\UsersController.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAwwHYAAAAfAAAA",
+              "DocumentIndex": 2,
+              "Title": "20241211002109_Initial Migration.cs",
+              "DocumentMoniker": "D:\\projects\\shifa-ali-backend\\AF\\Migrations\\20241211002109_Initial Migration.cs",
+              "RelativeDocumentMoniker": "AF\\Migrations\\20241211002109_Initial Migration.cs",
+              "ToolTip": "D:\\projects\\shifa-ali-backend\\AF\\Migrations\\20241211002109_Initial Migration.cs",
+              "RelativeToolTip": "AF\\Migrations\\20241211002109_Initial Migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T11:54:55.551Z"
+              "WhenOpened": "2024-12-11T00:21:09.165Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Users.cs",
               "DocumentMoniker": "D:\\projects\\shifa-ali-backend\\AF\\Models\\Users.cs",
               "RelativeDocumentMoniker": "AF\\Models\\Users.cs",
@@ -143,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\projects\\shifa-ali-backend\\AF\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "AF\\Data\\ApplicationDbContext.cs",
@@ -155,19 +160,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\projects\\shifa-ali-backend\\AF\\Program.cs",
               "RelativeDocumentMoniker": "AF\\Program.cs",
               "ToolTip": "D:\\projects\\shifa-ali-backend\\AF\\Program.cs",
               "RelativeToolTip": "AF\\Program.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAUwEwAAAAvAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwEwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T13:05:53.397Z"
+              "WhenOpened": "2024-11-16T13:05:53.397Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\projects\\shifa-ali-backend\\AF\\appsettings.json",
+              "RelativeDocumentMoniker": "AF\\appsettings.json",
+              "ToolTip": "D:\\projects\\shifa-ali-backend\\AF\\appsettings.json",
+              "RelativeToolTip": "AF\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-07T11:05:55.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\projects\\shifa-ali-backend\\AF\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "AF\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\projects\\shifa-ali-backend\\AF\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "AF\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwHYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:54:55.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "LoginRequest.cs",
               "DocumentMoniker": "D:\\projects\\shifa-ali-backend\\AF\\Models\\LoginRequest.cs",
               "RelativeDocumentMoniker": "AF\\Models\\LoginRequest.cs",
@@ -184,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "UsersRepository.cs",
               "DocumentMoniker": "D:\\projects\\shifa-ali-backend\\AF\\Repositories\\UsersRepository.cs",
               "RelativeDocumentMoniker": "AF\\Repositories\\UsersRepository.cs",
@@ -196,19 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\projects\\shifa-ali-backend\\AF\\appsettings.json",
-              "RelativeDocumentMoniker": "AF\\appsettings.json",
-              "ToolTip": "D:\\projects\\shifa-ali-backend\\AF\\appsettings.json",
-              "RelativeToolTip": "AF\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-07T11:05:55.069Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Fundraising.cs",
               "DocumentMoniker": "D:\\projects\\shifa-ali-backend\\AF\\Models\\Fundraising.cs",
               "RelativeDocumentMoniker": "AF\\Models\\Fundraising.cs",
@@ -220,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "PasswordService.cs",
               "DocumentMoniker": "D:\\projects\\shifa-ali-backend\\AF\\Services\\PasswordService.cs",
               "RelativeDocumentMoniker": "AF\\Services\\PasswordService.cs",
@@ -232,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ArticleRepository.cs",
               "DocumentMoniker": "D:\\projects\\shifa-ali-backend\\AF\\Repositories\\ArticleRepository.cs",
               "RelativeDocumentMoniker": "AF\\Repositories\\ArticleRepository.cs",
@@ -244,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ContactUs.cs",
               "DocumentMoniker": "D:\\projects\\shifa-ali-backend\\AF\\Models\\ContactUs.cs",
               "RelativeDocumentMoniker": "AF\\Models\\ContactUs.cs",
@@ -256,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "ArticleCategoriesController.cs",
               "DocumentMoniker": "D:\\projects\\shifa-ali-backend\\AF\\Controllers\\ArticleCategoriesController.cs",
               "RelativeDocumentMoniker": "AF\\Controllers\\ArticleCategoriesController.cs",
@@ -268,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ArticleCategoriesRepository.cs",
               "DocumentMoniker": "D:\\projects\\shifa-ali-backend\\AF\\Repositories\\ArticleCategoriesRepository.cs",
               "RelativeDocumentMoniker": "AF\\Repositories\\ArticleCategoriesRepository.cs",
@@ -280,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ArticleCategory.cs",
               "DocumentMoniker": "D:\\projects\\shifa-ali-backend\\AF\\Models\\ArticleCategory.cs",
               "RelativeDocumentMoniker": "AF\\Models\\ArticleCategory.cs",
@@ -292,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Article.cs",
               "DocumentMoniker": "D:\\projects\\shifa-ali-backend\\AF\\Models\\Article.cs",
               "RelativeDocumentMoniker": "AF\\Models\\Article.cs",
@@ -304,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "DonationCreateDto.cs",
               "DocumentMoniker": "D:\\projects\\shifa-ali-backend\\AF\\Models\\DonationCreateDto.cs",
               "RelativeDocumentMoniker": "AF\\Models\\DonationCreateDto.cs",
@@ -316,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Donation.cs",
               "DocumentMoniker": "D:\\projects\\shifa-ali-backend\\AF\\Models\\Donation.cs",
               "RelativeDocumentMoniker": "AF\\Models\\Donation.cs",
@@ -328,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "ArticleController.cs",
               "DocumentMoniker": "D:\\projects\\shifa-ali-backend\\AF\\Controllers\\ArticleController.cs",
               "RelativeDocumentMoniker": "AF\\Controllers\\ArticleController.cs",
@@ -340,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "IArticleCategoriesRepository.cs",
               "DocumentMoniker": "D:\\projects\\shifa-ali-backend\\AF\\Repositories\\IArticleCategoriesRepository.cs",
               "RelativeDocumentMoniker": "AF\\Repositories\\IArticleCategoriesRepository.cs",
@@ -352,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "DonationController.cs",
               "DocumentMoniker": "D:\\projects\\shifa-ali-backend\\AF\\Controllers\\DonationController.cs",
               "RelativeDocumentMoniker": "AF\\Controllers\\DonationController.cs",
@@ -364,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "DonationsRepository.cs",
               "DocumentMoniker": "D:\\projects\\shifa-ali-backend\\AF\\Repositories\\DonationsRepository.cs",
               "RelativeDocumentMoniker": "AF\\Repositories\\DonationsRepository.cs",
@@ -376,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "IFundRaisingRepository.cs",
               "DocumentMoniker": "D:\\projects\\shifa-ali-backend\\AF\\Repositories\\IFundRaisingRepository.cs",
               "RelativeDocumentMoniker": "AF\\Repositories\\IFundRaisingRepository.cs",

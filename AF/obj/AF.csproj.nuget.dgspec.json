@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projects\\shifa-ali-backend\\AF\\AF.csproj": {}
+    "D:\\shifa-ali-backend\\AF\\AF.csproj": {}
   },
   "projects": {
-    "D:\\projects\\shifa-ali-backend\\AF\\AF.csproj": {
+    "D:\\shifa-ali-backend\\AF\\AF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\shifa-ali-backend\\AF\\AF.csproj",
+        "projectUniqueName": "D:\\shifa-ali-backend\\AF\\AF.csproj",
         "projectName": "AF",
-        "projectPath": "D:\\projects\\shifa-ali-backend\\AF\\AF.csproj",
+        "projectPath": "D:\\shifa-ali-backend\\AF\\AF.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\shifa-ali-backend\\AF\\obj\\",
+        "outputPath": "D:\\shifa-ali-backend\\AF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -96,7 +96,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

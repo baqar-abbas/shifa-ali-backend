@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z0pisKzbntk=",
+  "dgSpecHash": "SBHW51M3t2k=",
   "success": true,
-  "projectFilePath": "D:\\projects\\shifa-ali-backend\\AF\\AF.csproj",
+  "projectFilePath": "D:\\shifa-ali-backend\\AF\\AF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
